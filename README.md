@@ -4,11 +4,6 @@
 
 تقدیم به فرشته‌ای که به او مادر می‌گویم و تمام مادران دنیا.
 
-<p align="center">
-  <img src="./screenshots/main_screen.png" alt="صفحه اصلی برنامه" width="250"/>
-  <img src="./screenshots/about_screen.png" alt="صفحه درباره" width="250"/>
-  <img src="./screenshots/donation_screen.png" alt="صفحه حمایت" width="250"/>
-</p>
 
 ---
 
